@@ -37,8 +37,7 @@ Technologies used
 Java 
 Git Hub 
 
-GitHub Repository  Link : https://github.com/Sakshic2/Simplilearn-phase-II_LearnersAcademy
-
+GitHub Repository  Link : https://github.com/Sakshic2/Learner_academy_phase-II
 
 
 Product Capabilities 
@@ -50,15 +49,13 @@ The project was completed in 1 sprint
 Additional Remarks 
 In hibernate.cfg.xml file we need to mention our own schema name with its credentials 
 
-GitHub Repository  Link : https://github.com/Sakshic2/Simplilearn-phase-II_LearnersAcademy
-
-
+GitHub Repository  Link : https://github.com/Sakshic2/Learner_academy_phase-II
 
 
 
 Algorithm 
 1.  Prints welcome to Learners academy . 
-2.  Shows all available options with Login 
+2.  Shows all available options with Login and fro login id - admin and password - admin
 3.  Takes input from the user from webpage 
 4.  If the user selects [    list students   ]
 Prints a student list table 
